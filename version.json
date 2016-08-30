@@ -1,7 +1,7 @@
 {
   "version": "1.0.57",
   "downloads": {
-    "GameHackCloud": "https://raw.githubusercontent.com/GameHackCloud/GameHackCloud/master/GameHackCloud.exe",
-    "RustInternal": "https://raw.githubusercontent.com/GameHackCloud/GameHackCloud/master/RustInternal.dll"
+    "GameHackCloud": "https://raw.githubusercontent.com/bitcher2012/GameHackCloud/master/GameHackCloud.exe",
+    "RustInternal": "https://raw.githubusercontent.com/bitcher2012/GameHackCloud/master/RustInternal.dll"
   }
 }
